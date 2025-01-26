@@ -3,4 +3,4 @@
 </div>
 
 # Scribe_Smart Notes
-Scribe Notepad - Redefined is a modern, feature-rich notepad application designed for efficiency and ease of use. This project enhances the traditional notepad experience with improved functionality and a sleek UI.
+Scribe_Smart Notes is a smart notepad application with an AI chatbot assistant powered by Google Gemini, enabling smart note-taking, summaries, and real-time assistance. Stay organized and boost productivity with AI-driven features! 🚀
