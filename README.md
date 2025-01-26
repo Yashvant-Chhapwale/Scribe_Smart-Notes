@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae23ef70-6325-4655-beef-a35738a66270" alt="Scribe Logo" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/ae23ef70-6325-4655-beef-a35738a66270" alt="Scribe Logo" width="250" height="250">
 </div>
 
 # Scribe_Smart Notes
