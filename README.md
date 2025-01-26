@@ -3,4 +3,4 @@
 </div>
 
 # Scribe_Smart Notes
-Scribe_Smart Notes is a smart notepad application with an AI chatbot assistant powered by Google Gemini, enabling smart note-taking, summaries, and real-time assistance. Stay organized and boost productivity with AI-driven features! 🚀
+Scribe_Smart Notes is an open source, smart-notepad application with an AI-Chatbot Assistant powered by Google Gemini, enabling smart note-taking, summaries, and real-time assistance. Stay organized and boost productivity with AI-driven Features! 🚀
