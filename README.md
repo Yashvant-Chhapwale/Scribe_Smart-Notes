@@ -14,4 +14,5 @@ Scribe_Smart Notes is an open source, smart-notepad application with an AI-Chatb
 
 ---
 
+# Snapshots
 
