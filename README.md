@@ -7,5 +7,5 @@ Scribe_Smart Notes is an open source, smart-notepad application with an AI-Chatb
 
 ## Installation
 - Download the Application **(Scribe.exe)** from [Github Releases](https://github.com/Yashvant-Chhapwale/Scribe_Smart-Notes/releases).
-- Please Click on `Run` to grant the necessary permissions.
+- Please Click on `Run` to grant the necessary permissions.<br>
   ![Click>>Run](https://github.com/user-attachments/assets/50b946f7-753d-46f4-9669-c9b53d9da1d5)
