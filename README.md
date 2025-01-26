@@ -1,6 +1,6 @@
 <div align="center" width=50 height = 50>
 
-  ![Scribe_Logo](https://github.com/user-attachments/assets/ae23ef70-6325-4655-beef-a35738a66270)
+  ![Scribe_Logo](https://github.com/user-attachments/assets/ae23ef70-6325-4655-beef-a35738a66270){width=20,height=20}
 </div>
 
 # Scribe_Smart Notes
