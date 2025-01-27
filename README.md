@@ -24,4 +24,5 @@ Scribe_Smart Notes is an open source, smart-notepad application with an AI-Chatb
 ---
 
 # Credits
-- Icon Credit: **Freepik** from (www.flaticon.com)
+- Icon Credit: **Freepik** from [FlatIcon](www.flaticon.com)
+- GUI: [Custom Tkinter](https://pypi.org/project/customtkinter/)
