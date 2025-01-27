@@ -28,6 +28,7 @@ Scribe_Smart Notes is an open source, smart-notepad application with an AI-Chatb
 - **`Smart Chatbot Assistant:`** Integrated AI-powered assistant for suggestions, summaries, and answering queries.
 - **`Multi-Tab Support:`** Work with multiple notes in separate tabs for enhanced productivity.
 - **`Custom Fonts & Styling:`** Adjust font type, style and size for a personalized writing experience.
+- **`Google's Gemini Support:`** Seamlessly integrated with Google’s "Gemini AI".
 
 ---
 
