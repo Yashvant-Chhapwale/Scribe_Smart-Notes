@@ -40,7 +40,7 @@ Scribe_Smart Notes is an open source, smart-notepad application with an AI-Chatb
 ---
 
 # Resources
-- Checkout the `Source Code` at this **[Github Repository](https://github.com/Yashvant-Chhapwale-Course-Work/Custom_Tkinter)**
+- Checkout the `Source Code` at this **[Github Repository](https://github.com/Yashvant-Chhapwale-Course-Work/Custom_Tkinter)**.
 
 ---
 
